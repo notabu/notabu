@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning frontend
+- 📫 How to reach me: samyyklass@gmail.com
+
 <!--
 **notabu/notabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
