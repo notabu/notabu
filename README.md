@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning frontend
+- 🌱 I’m currently learning backend
 - 📫 How to reach me: samyyklass@gmail.com
 
 <!--
